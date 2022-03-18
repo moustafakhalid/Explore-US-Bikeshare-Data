@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+
+https://stackoverflow.com/questions/6797984/how-do-i-lowercase-a-string-in-python
+
+https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas
+
+https://stackoverflow.com/questions/16766643/convert-date-string-to-day-of-week
+
+https://www.geeksforgeeks.org/how-to-count-distinct-values-of-a-pandas-dataframe-column/
+
+https://stackoverflow.com/questions/53037698/how-can-i-find-the-most-frequent-two-column-combination-in-a-dataframe-in-python
+
+https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe
